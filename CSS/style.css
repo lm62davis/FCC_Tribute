@@ -1,0 +1,28 @@
+header {
+  border: 2px dotted rgb(70, 3, 70);
+  text-align: center;
+  background-color: rgb(146, 143, 143);
+}
+#stats {
+  text-align: left;
+}
+.deco {
+  color: rgb(70, 3, 70);
+  font-weight: 700;
+}
+figcaption {
+  text-align: center;
+  font-size: 0.75em;
+}
+#img-div {
+  padding: 0em;
+  margin: 0em;
+}
+#image {
+  border-radius: 25em;
+  max-width: 100%;
+  height: auto;
+}
+footer {
+  text-align: right;
+}

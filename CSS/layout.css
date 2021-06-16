@@ -1,0 +1,6 @@
+#img-div {
+  display: grid;
+}
+img {
+  justify-self: center;
+}
